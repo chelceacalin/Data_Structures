@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\rober\OneDrive\Desktop\HASHTABLE_PROBING\Source.c(24,33): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\rober\OneDrive\Desktop\HASHTABLE_PROBING\Source.c(25,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\rober\OneDrive\Desktop\HASHTABLE_PROBING\Source.c(65,14): warning C4098: 'stergere': 'void' function returning a value
+C:\Users\rober\OneDrive\Desktop\HASHTABLE_PROBING\Source.c(67,31): warning C4047: '==': 'student *' differs in levels of indirection from 'int'
+C:\Users\rober\OneDrive\Desktop\HASHTABLE_PROBING\Source.c(77,39): warning C4047: '==': 'student *' differs in levels of indirection from 'int'
+  HASHTABLE_PROBING.vcxproj -> C:\Users\rober\OneDrive\Desktop\HASHTABLE_PROBING\Debug\HASHTABLE_PROBING.exe
