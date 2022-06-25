@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\rober\OneDrive\Desktop\AVLFINAL\Source.c(99): warning C4715: 'idMaxim': not all control paths return a value
+C:\Users\rober\OneDrive\Desktop\AVLFINAL\Source.c(88): warning C4715: 'cautarePrajitura': not all control paths return a value
+C:\Users\rober\OneDrive\Desktop\AVLFINAL\Source.c(109): warning C4715: 'nodMaxim': not all control paths return a value
+C:\Users\rober\OneDrive\Desktop\AVLFINAL\Source.c(201): warning C4715: 'cautaMinim': not all control paths return a value
+  AVLFINAL.vcxproj -> C:\Users\rober\OneDrive\Desktop\AVLFINAL\Debug\AVLFINAL.exe
