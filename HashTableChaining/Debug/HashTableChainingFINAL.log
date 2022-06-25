@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\rober\OneDrive\Desktop\HashTableChainingFINAL\Source.c(212,35): warning C4098: 'stergereInHash': 'void' function returning a value
+C:\Users\rober\OneDrive\Desktop\HashTableChainingFINAL\Source.c(164): warning C4715: 'searchInHash': not all control paths return a value
+  HashTableChainingFINAL.vcxproj -> C:\Users\rober\OneDrive\Desktop\HashTableChainingFINAL\Debug\HashTableChainingFINAL.exe
